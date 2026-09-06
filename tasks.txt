@@ -1,4 +1,6 @@
 My Tasks
 1. Study Git
-2. github
+
+2. revise it
+
 3. Review notes
