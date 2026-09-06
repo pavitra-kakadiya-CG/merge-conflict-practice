@@ -1,6 +1,4 @@
 My Tasks
 1. Study Git
-
-Watch Git tutorial
-
+2. revise it
 3. Review notes
